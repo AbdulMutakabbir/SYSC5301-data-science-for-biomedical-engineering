@@ -8,4 +8,4 @@
 ## Guide
 This branch contains the documentation and code need as part of the SYSC 5301 project. 
 
-- ![Project Proposal](https://github.com/AbdulMutakabbir/SYSC5301-data-science-for-biomedical-engineering/blob/project/docs/proposal/README.md)
+- [Project Proposal](https://github.com/AbdulMutakabbir/SYSC5301-data-science-for-biomedical-engineering/blob/project/docs/proposal/README.md)
