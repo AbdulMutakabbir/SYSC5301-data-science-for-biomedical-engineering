@@ -3,7 +3,7 @@
 This repository contains the below-listed information on the University of Ottawa's BMG5111/ELG6131: Data Science for Engineers course (SYSC5301 from Calrleton University). 
 Please note, this information is specifically for FALL 2023.
 
-- [Project]()
+- [Project](https://github.com/AbdulMutakabbir/SYSC5301-data-science-for-biomedical-engineering/tree/project)
     - Project Poposal
     - System Implementation Methodology 
     - Final Presentation
