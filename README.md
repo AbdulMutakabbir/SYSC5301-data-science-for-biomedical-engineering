@@ -6,7 +6,7 @@ Please note, this information is specifically for FALL 2023.
 - [Project]()
     - Project Poposal
     - System Implementation Methodology 
-    - inal Presentation
+    - Final Presentation
     - Final Report
 - [Assignment]()
 - [Quiz]()
